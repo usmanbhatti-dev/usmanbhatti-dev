@@ -14,11 +14,11 @@ I'm a **Senior Full-Stack Engineer & Software Architect** based in **Lahore, Pak
 
 I don't just build features — **I design systems that scale.**
 
-- 🏗️ Currently building at **D.Dynamics** as Senior Full-Stack Engineer & Architect
+- 🏗️ Currently building at **D. Dynamics** as Senior Full-Stack Engineer & Architect
 - 🏥 Specialized in **HIPAA & GDPR compliant** healthcare systems
 - ☁️ Full-stack across web, mobile, and cloud infrastructure
 - 🌍 Available for **remote opportunities** with international teams
-- 📬 Reach me at: **[LinkedIn](https://linkedin.com/in/usman-bhatti)** | **usmanbhatti@email.com**
+- 📬 Reach me at: **[LinkedIn](https://linkedin.com/in/theusmanbhatti)** | **usmanbhatti-dev@gmail.com**
 
 ---
 
@@ -62,14 +62,14 @@ I don't just build features — **I design systems that scale.**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanbhatti-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbhatti-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usmanbhatti-dev&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -81,12 +81,12 @@ I don't just build features — **I design systems that scale.**
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏗️ [**SaaS Multi-Tenant Boilerplate**](https://github.com/YOUR_GITHUB_USERNAME/saas-multitenant-boilerplate) | Production-ready SaaS starter with tenant isolation, RBAC, Stripe billing | TypeScript · Node · PostgreSQL · Docker · AWS |
-| 🏥 [**Healthcare Telemedicine Platform**](https://github.com/YOUR_GITHUB_USERNAME/healthcare-platform-hipaa) | HIPAA-compliant video consultation platform with multi-role system | React Native · Node · Agora · Stripe |
-| 🤖 [**AI Document Intelligence**](https://github.com/YOUR_GITHUB_USERNAME/ai-document-intelligence) | RAG-powered document Q&A with OpenAI embeddings & vector search | LangChain · OpenAI · React · Pinecone |
-| ⚡ [**Real-Time Collaboration API**](https://github.com/YOUR_GITHUB_USERNAME/realtime-collaboration-api) | Horizontally scalable real-time backend with Redis pub/sub & K8s | Node · Socket.io · Redis · Kubernetes |
-| ☁️ [**DevOps Infrastructure Toolkit**](https://github.com/YOUR_GITHUB_USERNAME/devops-infrastructure-toolkit) | AWS infrastructure as code with Terraform, ECS, and full CI/CD | Terraform · AWS · Docker · GitHub Actions |
-| 📐 [**System Design Portfolio**](https://github.com/YOUR_GITHUB_USERNAME/system-design-portfolio) | Documented designs for 10 real-world systems (WhatsApp, Uber, Netflix) | Architecture · Mermaid · Docs |
+| [**SaaS Multi-Tenant Boilerplate**](https://github.com/usmanbhatti-dev/saas-multitenant-boilerplate) | Production-ready SaaS starter with tenant isolation, RBAC, Stripe billing | TypeScript · Node · PostgreSQL · Docker · AWS |
+| [**Healthcare Telemedicine Platform**](https://github.com/usmanbhatti-dev/healthcare-platform-hipaa) | HIPAA-compliant video consultation platform with multi-role system | React Native · Node · Agora · Stripe |
+| [**AI Document Intelligence**](https://github.com/usmanbhatti-dev/ai-document-intelligence) | RAG-powered document Q&A with OpenAI embeddings & vector search | LangChain · OpenAI · React · Pinecone |
+| [**Real-Time Collaboration API**](https://github.com/usmanbhatti-dev/realtime-collaboration-api) | Horizontally scalable real-time backend with Redis pub/sub & K8s | Node · Socket.io · Redis · Kubernetes |
+| [**DevOps Infrastructure Toolkit**](https://github.com/usmanbhatti-dev/devops-infrastructure-toolkit) | AWS infrastructure as code with Terraform, ECS, and full CI/CD | Terraform · AWS · Docker · GitHub Actions |
+| [**System Design Portfolio**](https://github.com/usmanbhatti-dev/system-design-portfolio) | Documented designs for 10 real-world systems (WhatsApp, Uber, Netflix) | Architecture · Mermaid · Docs |
 
 </div>
 
@@ -95,7 +95,7 @@ I don't just build features — **I design systems that scale.**
 ## 💼 Experience
 
 ```
-Senior Full-Stack Engineer & Software Architect    D.Dynamics               Apr 2025 – Present
+Senior Full-Stack Engineer & Software Architect    D.Dynamics                Apr 2025 – Present
 Software Engineer (MERN Stack)                     Zaryans Consulting        Aug 2022 – Mar 2025
 Junior Software Engineer · React Native            ManiWebify                Mar 2022 – Aug 2022
 ```
@@ -115,7 +115,7 @@ Junior Software Engineer · React Native            ManiWebify                Ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-bhatti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usmanbhatti.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanbhatti@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanbhatti-de@gmail.com)
 
 **Available for senior remote roles · $80k–$130k · Immediate start**
 
